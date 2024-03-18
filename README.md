@@ -97,6 +97,3 @@ void push_button()
 
 ### RESULT:
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
- 
-## Result :
-Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
